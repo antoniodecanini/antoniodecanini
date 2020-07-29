@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 <p>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=antoniodecanini&show_icons=true&include_all_commits=true&theme=dracula" alt="Antonio Decanini's github stats" />
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=antoniodecanini&layout=compact&theme=dracula" />
+<img align="center" src="https://github-readme-stats.antoniodecanini.vercel.app/api?username=antoniodecanini&show_icons=true&include_all_commits=true&theme=dracula" alt="Antonio Decanini's github stats" />
+<img align="center" src="https://github-readme-stats.antoniodecanini.vercel.app/api/top-langs/?username=antoniodecanini&layout=compact&theme=dracula" />
 </p>
 
 *NOTE: Most used languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
